@@ -1,0 +1,44 @@
+body{
+background-color:white; 
+text-align: center;
+} 
+p,h3,h4,h5,h6{
+	color:white;
+}
+
+
+  .bg-2 { 
+      background-color: #C8C864;
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff;
+      color: #555555;
+  }
+  .container-fluid {
+      
+  }
+  #sign_in{
+    text-align: center;
+    border-radius: 2px;
+    font-size: 20px;
+    margin: 5px;
+    float: right;
+    text-decoration: none;
+  }
+  li{
+      list-style-type: none;
+      overflow: hidden;
+      display: inline;
+  }
+  #nav{
+    height: 30px;
+    
+  }
+  #link{
+    text-align: center;
+    border-radius: 2px, 5px;
+    font-size: 20px;
+    margin: 5px;
+    text-decoration: none;
+  }
